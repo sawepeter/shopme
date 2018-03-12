@@ -9,4 +9,4 @@ packaging==16.8
 Pillow==4.0.0
 pyparsing==2.2.0
 six==1.10.0
-python==
+python==3.6.4
